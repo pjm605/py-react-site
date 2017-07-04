@@ -1,0 +1,1 @@
+Sample django application linking with react.js
